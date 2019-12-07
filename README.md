@@ -14,7 +14,7 @@ Steps to run this program:-
 2. Build the simulator using the following command: /user# cd mms/src
                                                     /user# qmake && make
 
-3. Run the simulator using the following command: ../bin/mms
+3. Run the simulator using following command: ../bin/mms
 
 4. Parameters to be changed in the simulator:-
 
